@@ -1,0 +1,44 @@
+{
+  "productos": [
+    {
+      "nombre": "Rib Eye 900g",
+      "precio": "2002",
+      "id": 4
+    },
+    {
+      "nombre": "Rib Eye",
+      "precio": 30,
+      "id": 6
+    },
+    {
+      "nombre": "Mortadela",
+      "precio": 200,
+      "id": 7
+    },
+    {
+      "nombre": "Tocino",
+      "precio": 500,
+      "id": 8
+    },
+    {
+      "nombre": "Cecina",
+      "precio": 20,
+      "id": 9
+    },
+    {
+      "nombre": "Jugo de piña",
+      "precio": 50,
+      "id": 10
+    },
+    {
+      "nombre": "Jamon",
+      "precio": 500,
+      "id": 11
+    },
+    {
+      "nombre": "Morcilla",
+      "precio": 30,
+      "id": 12
+    }
+  ]
+}
